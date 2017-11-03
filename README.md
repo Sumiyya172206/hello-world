@@ -1,4 +1,3 @@
 # hello-world
-Just another repositary
 Hi, 
-My name is Sumiyya Hussain
+My name is Sumiyya Hussain and I am learning to code a website.
